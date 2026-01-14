@@ -1,0 +1,5 @@
+langchain
+langgraph
+langchain-community
+langsmith
+python-dotenv

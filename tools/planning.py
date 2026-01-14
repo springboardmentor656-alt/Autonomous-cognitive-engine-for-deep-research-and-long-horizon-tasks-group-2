@@ -14,10 +14,6 @@ client = OpenAI(
 
 @traceable(name="write_todos_planning_tool")
 def write_todos(task: str):
-    """
-    AI-powered planning tool.
-    Decomposes a complex task into EXACTLY 6 ordered TODO steps.
-    """
 
     system_prompt = """
 You are an expert planning agent.

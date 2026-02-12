@@ -1,0 +1,3 @@
+if "Search" in todo["task"]:
+    research_text = state.get("dataset_item") or todo.get("task") or "AI healthcare systems require strict data privacy..."
+    write_file(state, "research.txt", research_text)

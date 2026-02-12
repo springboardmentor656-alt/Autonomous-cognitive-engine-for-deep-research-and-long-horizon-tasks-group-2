@@ -1,0 +1,10 @@
+{"id":"task01","prompt":"Generate a research report on privacy-preserving ML for patient records."}
+{"id":"task02","prompt":"Summarize the ethical concerns of AI diagnosis systems."}
+{"id":"task03","prompt":"Analyze methods to prevent model inversion attacks on health data."}
+{"id":"task04","prompt":"Write a brief report on differential privacy applied to EHRs."}
+{"id":"task05","prompt":"Compare federated learning vs centralized learning for hospital data."}
+{"id":"task06","prompt":"Explain how anonymization fails with modern LLMs."}
+{"id":"task07","prompt":"Provide recommended best practices for secure medical AI pipelines."}
+{"id":"task08","prompt":"Summarize regulatory frameworks for health data (HIPAA, GDPR)."}
+{"id":"task09","prompt":"Describe audit logging approaches for ML models in healthcare."}
+{"id":"task10","prompt":"Create an outline for a research report on AI-driven anomaly detection in medical sensors."}

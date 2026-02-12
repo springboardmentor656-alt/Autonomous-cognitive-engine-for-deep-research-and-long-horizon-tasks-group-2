@@ -1,0 +1,15 @@
+deep_cognitive_agent/
+│
+├── main.py
+├── agent.py
+├── tools/
+│   ├── todos.py
+│   ├── filesystem.py
+│   ├── delegate.py
+│
+├── sub_agents/
+│   └── summarizer.py
+│
+├── state.py
+├── requirements.txt
+└── .env

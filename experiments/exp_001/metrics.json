@@ -1,0 +1,23 @@
+[
+    {
+        "task_id": "task_4840",
+        "topic": "Climate Change AI",
+        "timestamp": "2026-02-11T19:48:42.291100",
+        "final_path": "experiments\\exp_001\\results\\task_4840_final_report.txt",
+        "quality_score": 0
+    },
+    {
+        "task_id": "task_5108",
+        "topic": "AI for Space Exploration",
+        "timestamp": "2026-02-11T19:51:09.945098",
+        "final_path": "experiments\\exp_001\\results\\task_5108_final_report.txt",
+        "quality_score": 0
+    },
+    {
+        "task_id": "task_5135",
+        "topic": "Robotics in Surgery",
+        "timestamp": "2026-02-11T19:51:35.649990",
+        "final_path": "experiments\\exp_001\\results\\task_5135_final_report.txt",
+        "quality_score": 0
+    }
+]
